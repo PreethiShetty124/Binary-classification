@@ -1,4 +1,4 @@
-# Binary-classification - Horse or Human 
+# Binary-classification - Horse or Human images
 
 # Objective
 
